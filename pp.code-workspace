@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "venv\\Scripts\\python.exe",
+		"python.autoComplete.extraPaths": [
+			"${workspaceFolder}\\venv\\Lib\\site-packages"
+		],
+		"cSpell.enabledLanguageIds": [
+			"asciidoc",
+			"c",
+			"cpp",
+			"csharp",
+			"css",
+			"go",
+			"handlebars",
+			"html",
+			"jade",
+			"javascript",
+			"javascriptreact",
+			"json",
+			"jsonc",
+			"latex",
+			"less",
+			"markdown",
+			"php",
+			"plaintext",
+			"pub",
+			"python",
+			"restructuredtext",
+			"rust",
+			"scss",
+			"text",
+			"typescript",
+			"typescriptreact",
+			"yml"
+		],
+		"cSpell.words": [
+			"restructuredtext"
+		]
+	}
+}
